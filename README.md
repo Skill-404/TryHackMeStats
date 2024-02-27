@@ -5,6 +5,6 @@ A simple Python script to obtain:
 2. User rank
 3. List of completed rooms (Name and Description)
 
-The script uses TryHackMe's undocumented API which may change without notice. No authentication is required to obtain the above.
+The script uses TryHackMe's undocumented API which may change without notice. No authentication to TryHackMe is required to obtain the above.
 
 
