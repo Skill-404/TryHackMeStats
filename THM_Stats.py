@@ -1,4 +1,3 @@
-#To Do - Add requests HTTP Code check for each look up
 import requests
 import sys
 from datetime import date
