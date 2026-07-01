@@ -7,4 +7,6 @@ A simple Python script to obtain:
 
 The script uses TryHackMe's undocumented API which may change without notice. No authentication to TryHackMe is required to obtain the above.
 
+01/07/2026 - V2 introduced to support new API used by THM
+
 
